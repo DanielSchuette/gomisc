@@ -1,3 +1,5 @@
+// example from Donovan, Kernighan: The Go Programming Language.
+// lissajous.go creates a Lissajous figure in gif format
 package main
 
 import (
